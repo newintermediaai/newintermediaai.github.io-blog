@@ -140,8 +140,3 @@ Contenuto dell'articolo in Markdown...
 
 © 2026 New Intermedia AI. Tutti i diritti riservati.
 
-## 🔗 Link Utili
-
-- [Sito Principale](https://newintermediai.github.io)
-- [Blog](https://newintermediai.github.io/blog/)
-- [Feed RSS](https://newintermediai.github.io/blog/feed.xml)
