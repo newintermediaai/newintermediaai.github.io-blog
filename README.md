@@ -2,9 +2,6 @@
 
 Blog ufficiale di **New Intermedia AI** - Analisi e approfondimenti su intelligenza artificiale, tecnologia, diritto e innovazione digitale.
 
-## 🌐 Visita il Blog
-
-**[https://newintermediai.github.io/blog/](https://newintermediai.github.io/blog/)**
 
 ## 📚 Contenuti
 
