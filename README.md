@@ -71,8 +71,6 @@ In casi come questo, Revicta diventa un "registro storico digitale" dell'innovaz
 
 ---
 
-[Leggi l'articolo completo sul Blog →](https://newintermediai.github.io/blog/2026/07/22/revicta-terravision/)
-
 ## 🛠️ Tecnologie
 
 - **[Jekyll](https://jekyllrb.com/)** - Generatore di siti statici
